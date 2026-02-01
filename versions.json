@@ -15,8 +15,12 @@
     "version": "1.5.2",
     "url": "https://github.com/Anhtuanpri/Update/releases/download/v1.5.2/1.5.2.zip"
     },
+  "1.5.3": {
+    "version": "1.5.3",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.5.3/1.5.3.zip"
+    },
   "1.5.4": {
     "version": "1.5.4",
-    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.5.3/1.5.3.zip"
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.5.4/1.5.4.zip"
   }
 }
