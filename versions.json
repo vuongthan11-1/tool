@@ -26,5 +26,9 @@
   "1.6.3": {
     "version": "1.6.3",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.6.3/1.6.3.zip"
+  },
+  "1.6.4": {
+    "version": "1.6.4",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.6.4/1.6.4.zip"
   }
 }
