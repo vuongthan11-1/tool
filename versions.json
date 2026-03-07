@@ -38,5 +38,13 @@
   "1.6.6": {
     "version": "1.6.6",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.6.6/1.6.6.zip"
+  },
+  "1.6.7": {
+    "version": "1.6.7",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.6.7/1.6.7.zip"
+  },
+  "1.6.8": {
+    "version": "1.6.8",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.6.8/1.6.8.zip"
   }
 }
