@@ -54,5 +54,9 @@
   "1.7.0": {
     "version": "1.7.0",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.7.0/1.7.0.zip"
+  },
+  "1.7.1": {
+    "version": "1.7.1",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.7.1/1.7.1.zip"
   }
 }
