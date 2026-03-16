@@ -66,5 +66,9 @@
   "1.7.3": {
     "version": "1.7.3",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.7.3/1.7.3.zip"
+   },
+  "1.7.4": {
+    "version": "1.7.4",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.7.4/1.7.4.zip"
   }
 }
