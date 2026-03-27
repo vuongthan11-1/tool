@@ -90,9 +90,13 @@
   "1.7.9": {
     "version": "1.7.9",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.7.9/1.7.9.zip"
-     },
+  },
   "1.8.0": {
     "version": "1.8.0",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.8.0/1.8.0.zip"
+  },
+  "1.8.1": {
+    "version": "1.8.1",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.8.1/1.8.1.zip"
   }
 }
