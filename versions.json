@@ -106,5 +106,9 @@
   "1.8.3": {
     "version": "1.8.3",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.8.3/1.8.3.zip"
+  },
+  "1.8.4": {
+    "version": "1.8.4",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.8.4/1.8.4.zip"
   }
 }
