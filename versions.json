@@ -134,5 +134,9 @@
   "1.9.1": {
     "version": "1.9.1",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.9.1/1.9.1.zip"
+  },
+  "1.9.2": {
+    "version": "1.9.2",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.9.2/1.9.2.zip"
   }
 }
