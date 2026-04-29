@@ -150,5 +150,9 @@
   "1.9.5": {
     "version": "1.9.5",
     "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.9.5/1.9.5.zip"
+  },
+  "1.9.6": {
+    "version": "1.9.6",
+    "url": "https://github.com/vuongthan11-1/tool/releases/download/v1.9.6/1.9.6.zip"
   }
 }
